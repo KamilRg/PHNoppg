@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "koJLdn56xiCCcry+3QA6vwGouEUzziuLCNBcQlUcal8=",
+  "Source": "GamingStuffShop",
+  "BasePath": "_content/GamingStuffShop",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GamingStuffShop\\wwwroot",
+      "Source": "GamingStuffShop",
+      "ContentRoot": "C:\\Users\\tudro\\Desktop\\Trimit\\GamingStuffShop\\wwwroot\\",
+      "BasePath": "_content/GamingStuffShop",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\tudro\\Desktop\\Trimit\\GamingStuffShop\\wwwroot\\controller.js",
+      "SourceId": "GamingStuffShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tudro\\Desktop\\Trimit\\GamingStuffShop\\wwwroot\\",
+      "BasePath": "_content/GamingStuffShop",
+      "RelativePath": "controller.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\controller.js"
+    },
+    {
+      "Identity": "C:\\Users\\tudro\\Desktop\\Trimit\\GamingStuffShop\\wwwroot\\index.html",
+      "SourceId": "GamingStuffShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tudro\\Desktop\\Trimit\\GamingStuffShop\\wwwroot\\",
+      "BasePath": "_content/GamingStuffShop",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\tudro\\Desktop\\Trimit\\GamingStuffShop\\wwwroot\\model.js",
+      "SourceId": "GamingStuffShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tudro\\Desktop\\Trimit\\GamingStuffShop\\wwwroot\\",
+      "BasePath": "_content/GamingStuffShop",
+      "RelativePath": "model.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\model.js"
+    },
+    {
+      "Identity": "C:\\Users\\tudro\\Desktop\\Trimit\\GamingStuffShop\\wwwroot\\view.js",
+      "SourceId": "GamingStuffShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tudro\\Desktop\\Trimit\\GamingStuffShop\\wwwroot\\",
+      "BasePath": "_content/GamingStuffShop",
+      "RelativePath": "view.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\view.js"
+    }
+  ]
+}
